@@ -1,0 +1,15 @@
+// sample with several mistakes
+{
+  "name": "demo",
+  "age": 01,
+  "tags": ["a", "b",],
+  "ok": True,
+  "text": "bad \q escape",
+  'single': 1,
+  "dup": 1,
+  "dup": 2,
+  "missing": 1
+  "comma": [1 2],
+  "unterminated": "abc
+  "last": { "x": }
+}

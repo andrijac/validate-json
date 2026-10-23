@@ -1,0 +1,7 @@
+// comment at top
+{
+  /* block comment */
+  "name": "ok", // trailing comment
+  "n": [1, -2.5e3, true, null],
+  "nested": { "a": "é\n" }
+}
